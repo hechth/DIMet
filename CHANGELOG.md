@@ -8,5 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [unreleased]
 
 ### Added
+- integrated further unit tests in [#7](https://github.com/cbib/DIMet/pull/7)
 ### Changed
 ### Fixed
